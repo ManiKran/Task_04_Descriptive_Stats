@@ -1,7 +1,5 @@
 # Task_04_Descriptive_Stats
 
-# Task_04_Descriptive_Stats
-
 ## Overview
 This project performs descriptive statistical analysis on election-related social media datasets using:
 - Pure Python
@@ -11,6 +9,7 @@ This project performs descriptive statistical analysis on election-related socia
 ## How to Run
 
 ```bash
+pip install pandas polars matplotlib seaborn
 python scripts/pure_python_stats.py
 python scripts/pandas_stats.py
 python scripts/polars_stats.py
@@ -19,7 +18,7 @@ python visualizations/visualizations.py
 
 ## Dataset
 
-Facebook & Twitter US Election Ads Dataset (2024)
+Facebook Ads Dataset (2024)
 Not included due to data policy.
 You can download it here: Google Drive Link
 
