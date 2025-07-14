@@ -4,7 +4,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-df = pd.read_csv('period_03/2024_fb_ads_president_scored_anon.csv')
+df = pd.read_csv('/Users/student/Desktop/ResearchAnalystTasks/Task_4/period_03/2024_fb_ads_president_scored_anon.csv')
 
 # Histogram for numeric field
 numeric_cols = df.select_dtypes(include='number').columns.tolist()
