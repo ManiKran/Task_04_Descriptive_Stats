@@ -9,6 +9,8 @@ This project performs descriptive statistical analysis on election-related socia
 ## How to Run
 
 ```bash
+git clone https://github.com/ManiKran/Task_04_Descriptive_Stats.git
+cd Task_04_Descriptive_Stats
 pip install pandas polars matplotlib seaborn
 python scripts/pure_python_stats.py
 python scripts/pandas_stats.py
