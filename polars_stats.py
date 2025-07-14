@@ -2,7 +2,7 @@
 
 import polars as pl
 
-df = pl.read_csv('/path/to/your/dataset.csv')
+df = pl.read_csv('/Users/student/Desktop/ResearchAnalystTasks/Task_4/period_03/2024_fb_ads_president_scored_anon.csv')
 
 print("✅ Data Loaded")
 print("Shape:", df.shape)
