@@ -20,7 +20,8 @@ python visualizations/visualizations.py
 
 Facebook Ads Dataset (2024)
 Not included due to data policy.
-You can download it here: Google Drive Link
+You can download it here: https://drive.google.com/file/d/1Jq0fPb-tq76Ee_RtM58fT0_M3o-JDBwe/view
+
 
 ## Findings
 	•	Pandas is easiest and has rich built-in support
